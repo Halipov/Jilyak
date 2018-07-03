@@ -1,4 +1,5 @@
-# Jilyak
+<h1 align=center> JavaScript</h1>
+
 ## js2 
 
 ### Задание 1.
